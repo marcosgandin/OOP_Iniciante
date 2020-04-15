@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/27 14:41:27.000.525,=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/29 15:04:44.000.362,=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:20:25.385,=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:21:16.811,C:\Projetos\OOP Projeto #1\View.Principal.pas=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:21:16.811,C:\Projetos\OOP Projeto #1\View.Principal.dfm=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/15 14:21:46.067,C:\Projetos\OOP Projeto #1\OOP_Iniciente.dproj=C:\Users\marco\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/04/15 14:22:49.019,=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:23:12.984,C:\Projetos\OOP Projeto #1\Classe.Pessoa.pas=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:23:37.635,=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:23:57.782,C:\Projetos\OOP Projeto #1\Classe.Vendedor.pas=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:24:31.198,=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 14:24:46.041,C:\Projetos\OOP Projeto #1\Classe.Administrativo.pas=C:\Projetos\OOP Projeto #1\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
